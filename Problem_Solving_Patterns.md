@@ -9,6 +9,7 @@
 3. **Sliding window**
    This is meant for **strings** or **arrays** in which we are looking for continuous subset of values. Example: Max sub array sum
 4. **Divide and conquer**
+   Take a larger set of data and divide into smaller sets and operate on them
 5. **Dynamic programming**
 6. **Greedy algorithms**
 7. **Backtracking**
